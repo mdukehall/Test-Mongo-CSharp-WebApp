@@ -1,0 +1,12 @@
+D:\Projects\MongoWebApp\MongoWebApp\bin\MongoWebApp.dll
+D:\Projects\MongoWebApp\MongoWebApp\bin\MongoWebApp.pdb
+D:\Projects\MongoWebApp\MongoWebApp\bin\MongoDB.Driver.dll
+D:\Projects\MongoWebApp\MongoWebApp\bin\MongoDB.GridFS.dll
+D:\Projects\MongoWebApp\MongoWebApp\bin\MongoDB.Linq.dll
+D:\Projects\MongoWebApp\MongoWebApp\bin\MongoDB.Driver.xml
+D:\Projects\MongoWebApp\MongoWebApp\bin\MongoDB.GridFS.xml
+D:\Projects\MongoWebApp\MongoWebApp\bin\MongoDB.Linq.xml
+D:\Projects\MongoWebApp\MongoWebApp\bin\Telerik.Web.UI.xml
+D:\Projects\MongoWebApp\MongoWebApp\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\MongoWebApp\MongoWebApp\obj\Debug\MongoWebApp.dll
+D:\Projects\MongoWebApp\MongoWebApp\obj\Debug\MongoWebApp.pdb
